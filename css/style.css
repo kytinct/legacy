@@ -80,10 +80,10 @@ h1, h2, h3, h4, h5, h6 {
   background-color: rgba(0, 0, 0, .5);
 }
 
-@media(max-width: 359px) {
+@media(max-width: 320px) {
 .title {
-  padding: 10px;
-  font-size: 15px;
+  padding: 8px;
+  font-size: 14px;
   }
 }
 
